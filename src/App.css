@@ -1,0 +1,21 @@
+.div {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: flex-end;
+  padding: 1em;
+}
+
+/* index.css */
+
+.book-show {
+  /* Style for each book display */
+  padding: 10px;
+  margin: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.book-list {
+  /* Style for the list of books */
+  margin: 20px;
+}
